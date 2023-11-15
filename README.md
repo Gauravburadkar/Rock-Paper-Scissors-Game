@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-Game
-I have created a Simple Rock-Paper-Scissors Game Using Java Programming Language.
+Created a simple Rock-paper-scissors game Using java that allows the user to play the classic game against the computer.
